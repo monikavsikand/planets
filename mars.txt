@@ -4,3 +4,4 @@ This is line 3
 This is line 12
 This is line 34
 This is line 35
+git clone https://github.com/vlad/planets.git ~/Desktop/vlad-planets
